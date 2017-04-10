@@ -46,3 +46,6 @@ group :development do
 end
 
 gem 'jquery-turbolinks'
+
+gem 'fullcalendar-rails'
+gem 'momentjs-rails'

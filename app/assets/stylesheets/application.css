@@ -15,6 +15,7 @@
  *= require bootstrap
  *= require flexslider
  *= require animate
+ *= require fullcalendar
  *= require _bootstrap-mincer
  *= require _bootstrap-sprockets
  *= require _bootstrap-compass

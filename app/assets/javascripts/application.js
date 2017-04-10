@@ -13,7 +13,10 @@
 //= require superfish
 //= require bootstrap.min
 //= require google_map
+//= require moment
+//= require fullcalendar
 //= require hoverIntent
+//= require calender
 //= require jquery.countTo
 //= require jquery.easing.1.3
 //= require jquery.flexslider-min
